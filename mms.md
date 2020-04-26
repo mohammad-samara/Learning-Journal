@@ -12,7 +12,7 @@ challenges | avoid | embrace
 obstacles | loses focus | persists
 effort | views as fruitless | no pain no gain
 criticism | ignore it | learns from it
-success of others | views as a threat | inspired by
+success of others | views as a threat | inspired by |
 
 ![image of mindset difference](https://live.staticflickr.com/256/19751739181_ee9f90344a_b.jpg)
 so you can figure out that fixed mindset believes that intellegence and abilities can't be improved, and there is no need for effort, so they won't improve or reach full capabilities
