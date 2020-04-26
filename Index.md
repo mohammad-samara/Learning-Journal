@@ -24,3 +24,4 @@ to make subpoints just put two spaces before the star or the dash
 ![Image name](https://live.staticflickr.com/8456/8063950119_57b3cb8818_b.jpg)
 ## how to make a clickable link for example to google.com:
 [any word you want](https://www.google.com/)
+# samara
