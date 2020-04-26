@@ -4,6 +4,7 @@ first what do we mean by mindset?
 it is the way you think about your self or self-thory and there is two type of mindset:
 1. fixed mindset
 2. growth mindset
+
 ### the table below will show us the difference between the two mindset when facing a various of situations:
 
 The situation | fixed mindset | growth mindset
