@@ -28,5 +28,11 @@ next ,I will give you some examples for text editors with some of thier features
        * word completion
        * function completion
 
-
+### what is the difference between “basic” text editor ,coding-specific text editor and IDE?
+- basic text editors don’t have many features as syntax highlighting ,code comletion ,extensions and themes.
+so it will be harder to use it for coding and it won't help you finding errors.
+- while coding-specific text editor have many features such as syntax highlighting ,code comletion ,extensions themes and more.
+so it will be easier to to write codes and fix errors.
+- IDE (Integrated Development Environment): is a text editor, a file manager, a compiler, and a debugger all in one software.
+An everyday text editor is much more lightweight and flexible for biggeners.
 
