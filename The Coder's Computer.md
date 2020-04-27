@@ -36,3 +36,6 @@ so it will be easier to to write codes and fix errors.
 - IDE (Integrated Development Environment): is a text editor, a file manager, a compiler, and a debugger all in one software.
 An everyday text editor is much more lightweight and flexible for biggeners.
 
+you can find more about text editors at the click me below:
+
+[click me](https://en.wikipedia.org/wiki/Text_editor)
