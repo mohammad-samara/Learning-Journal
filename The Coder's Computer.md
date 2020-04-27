@@ -10,15 +10,16 @@ But there is some significant that will make it too easier to write codes and I 
     * some code complition might also include closing of brackets, tags, and quotation marks
 
 2. syntax highlighting: which colors the words in code depending on its type (attributes,element...etc). words with the same type will be colored with the same color, and this will make it easier to read the code and finding errors.
+![image of syntax highlighting](https://live.staticflickr.com/2917/14391734181_0f0ec76e4f_b.jpg)
 
 3. a nice variety of themes: to reduce eyes fatigue.
 
 4. the ability to choose from a alot of usefull extensions: when you become familiar with text editor and you want to customise it to make coding easier and faster you can add some extentions which is most like add-ons.
 
 next ,I will give you some examples for text editors with some of thier features:
-* Visual Studio Code: one of the best text editors, because it includes the following features:
+* Visual Studio Code: one of the best text editors, because it includes the following features: 
    * syntax highlighting
-   * code comletion
+   * code completion
    * extensions
    * themes
 
