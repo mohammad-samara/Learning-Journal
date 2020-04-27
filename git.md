@@ -1,6 +1,6 @@
-#Git
+# Git
 
-###Hi everyone. My name Is Mohammad Samara, and I will share with you what I have learned about **Git**
+### Hi everyone. My name Is Mohammad Samara, and I will share with you what I have learned about **Git**
 
 Git is a DVCS (Distributed Version Control system) that stores data in a file system made up of snapshots, it works locally on your pc to keep tracking your code and files changes. Also it will allow you to view,apply,and remove these changes.
 
@@ -18,20 +18,20 @@ After installing Git on your computer you can access it's commands through *Ubun
 ##### Cloning
 
 You can create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
-$ git clone https://github.com/repository’s name
+$ git clone (https://github.com/"repository’s name")
 
 ##### Check File Status
 use the command ($ git status)
 
 ##### Tracking and Staging a New File
 
-   *Single File
+   * Single File
 
 Track one file only by using the following format:
 
 git add filename
 
-   *All Files
+   * All Files
 
 Track all files in a repository by using the following command:
 
