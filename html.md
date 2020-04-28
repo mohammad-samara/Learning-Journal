@@ -6,12 +6,12 @@
 
 ### html uses elements to describe the structure of pages.
 
-  * element is a 2 tags plus what is between them like this: " <p>text</p>
+  * element is a 2 tags plus what is between them like this: " <p>text</p> "
   * element tells the browser information about the text between the two tags.
-  * a tag is the combination of left-angle bracket,a character,and RIGHT -angle bracket like this <a>
+  * a tag is the combination of left-angle bracket,a character,and RIGHT -angle bracket like this "<a>"
 
 **atributes** appear in the oppenig tag and tells us more about elements
-**EX:** <p lang="en-us">
+**EX:** " <p lang="en-us"> "
 
 ## I will next explain the use of some of the attributes:
 
@@ -20,7 +20,7 @@
 
 ## How to type a comment in the code that won't appear in the user's browser:
 
-<!-- your comment -->
+"<!-- your comment -->"
 - it is used to make it easier to understand the code
 
 ## IFRAMES
