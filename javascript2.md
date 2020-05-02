@@ -45,7 +45,7 @@ loops check a condition. if it returns true, a code block will run, then the con
 
 1. **for**: if you need to run code a specific number of times, use a *for* loop, in a *for loop*, the condition is usually a **counter** which is used to tell how many times the loop should run.
 
-![image of logical operator sentence](/images/javascript2/for.png)
+![image of logical operator sentence](/images/javascript2/for-statement.png)
 
    * a ***for* loop uses a *counter* as a condition**
    this instructs the code to run a specific number of times
